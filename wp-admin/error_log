@@ -1,0 +1,1 @@
+[05-Feb-2019 18:00:41 UTC] PHP Fatal error:  Class 'TGM_Bulk_Installer' not found in /home/moratto4/public_html/wp-content/themes/responsive/core/includes/classes/class-tgm-plugin-activation.php on line 1527
